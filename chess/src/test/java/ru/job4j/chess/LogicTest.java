@@ -21,3 +21,4 @@ public class LogicTest {
         assertThat(exception.getMessage()).isEqualTo("Figure not found on the board.");
     }
 }
+

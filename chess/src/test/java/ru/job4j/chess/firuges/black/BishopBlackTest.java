@@ -50,3 +50,4 @@ class BishopBlackTest {
         assertThat(bishop.isDiagonal(Cell.C1, Cell.C2)).isFalse();
     }
 }
+
